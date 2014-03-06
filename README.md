@@ -5,23 +5,18 @@ VITA-Support-Docs
 
 Here's a selection of the VITA Toolkit manuals:
 
-Agency & Site Management
+Agency Management
 <ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/AgencyMgmt_1-3_4-2-2.pdf" target="_blank">Agency Management manual</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/EnableYourSearchWidget2.pdf" target="_blank">Enabling your Search Widget</a></li>
-<ul>Site Management
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_ToC_4-2-0.pdf" target="_blank">Table of Contents</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_1-4_4-2-0.pdf" target="_blank">Section 1-4: Introduction, Site profile, Branding</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.0-5.4_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 1</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.14-5.16_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 3</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.5-5.13_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 2</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_6-7_4-2-0.pdf" target="_blank">Section 6-7: Site Set up, Plus plan options</a></li>
-</ul>
 </ul>
 
-Audio & Video
-<ul>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/StreamingVideo.pdf" target="_blank">Streaming Video</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/Audio_1_4-2-0.pdf" target="_blank">Uploading Audio files</a></li>
+Site Management
+<ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_ToC_4-2-0.pdf" target="_blank">Table of Contents</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_1-4_4-2-0.pdf" target="_blank">Section 1-4: Introduction, Site profile, Branding</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.0-5.4_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 1</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.5-5.13_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 2</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.14-5.16_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 3</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_6-7_4-2-0.pdf" target="_blank">Section 6-7: Site Set up, Plus plan options</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/EnableYourSearchWidget2.pdf" target="_blank">Enabling your Search Widget</a></li>
 </ul>
 
 Data management manuals:
@@ -34,10 +29,31 @@ Data management manuals:
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/DM_Part6_8_4-2-0.pdf" target="_blank">Section 6-8: Searching your records, Creating Collection & Publication records</a></li>
 </ul>
 
+Audio & Video
+<ul>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/StreamingVideo.pdf" target="_blank">Streaming Video</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/Audio_1_4-2-0.pdf" target="_blank">Uploading Audio files</a></li>
+</ul>
+
+Adding and managing Text objects
+<ul>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_ToC_4-2-0.pdf" target="_blank">Table of Contents </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_1-2_4-2-0.pdf" target="_blank">Section 1-2: Introduction & Multipage objects</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_3_4-2-0.pdf" target="_blank">Section 3: PDFs </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_4_4-2-0.pdf" target="_blank">Section 4: Full Text Extraction </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_5_4-2-0.pdf" target="_blank">Section 5: OCR full text files</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_6_4-2-0.pdf" target="_blank">Section 6: Zoomify files</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/TextObjects_7_4-2-0.pdf" target="_blank">Section 7: Clippings</a></li>
+</ul>
+
 Adding and managing Newspaper content
 <ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/News_Training.pdf" target="_blank">Full run Newspapers in VITA (Slideshow)</a></li> 
+<ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/AddIssue-SinglePDF.pdf" target="_blank">Adding issues as a single PDF</a></li> 
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/VITA_PersonalInfoRemoveRequest.pdf" target="_blank">Handling Personal Information Removal Requests</a></li> 
+</ul>
 
+Other...
+<ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/VITA4-0-1_PhotoEssay.pdf" target="_blank">Photo Essays/Virtual Exhibits</a></li> 
 </ul>
 
 
