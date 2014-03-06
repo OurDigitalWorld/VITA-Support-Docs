@@ -8,7 +8,7 @@ To see a selection of the VITA Toolkit manuals please click below:
 <ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/AgencyMgmt_1-3_4-2-2.pdf" target="_blank">Agency Management manual</a></li>
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/StreamingVideo.pdf" target="_blank">Streaming Video</a></li>
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/Audio_1_4-2-0.pdf" target="_blank">Uploading Audio files</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/EnablingYourSearchWidget2.pdf" target="_blank">Enabling your Search Widget</a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/EnableYourSearchWidget2.pdf" target="_blank">Enabling your Search Widget</a></li>
 </ul>
 
 
