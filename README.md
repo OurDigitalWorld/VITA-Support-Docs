@@ -48,7 +48,7 @@ Adding and managing Text objects
 
 Adding and managing Newspaper content
 <ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/News_Training.pdf" target="_blank">Full run Newspapers in VITA (Slideshow)</a></li> 
-<ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/AddIssue-SinglePDF.pdf" target="_blank">Adding issues as a single PDF</a></li> 
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/AddIssue-SinglePDF.pdf" target="_blank">Adding issues as a single PDF</a></li> 
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/VITA_PersonalInfoRemoveRequest.pdf" target="_blank">Handling Personal Information Removal Requests</a></li> 
 </ul>
 
