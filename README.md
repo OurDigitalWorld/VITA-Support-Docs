@@ -8,13 +8,13 @@ Here's a selection of the VITA Toolkit manuals:
 Agency & Site Management
 <ul><li><a href="http://ourontario.ca/temp/ODW-GitHub/AgencyMgmt_1-3_4-2-2.pdf" target="_blank">Agency Management manual</a></li>
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/EnableYourSearchWidget2.pdf" target="_blank">Enabling your Search Widget</a></li>
-<ul><li>Site Management</li>
+<ul>Site Management
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_ToC_4-2-0.pdf" target="_blank">Table of Contents</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_1-4_4-2-0.pdf" target="_blank">Section 1-4: </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_1-4_4-2-0.pdf" target="_blank">Section 1-4: Introduction, Site profile, Branding</a></li>
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.0-5.4_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 1</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.14-5.16_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.14-5.16_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 3</a></li>
 <li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_5.5-5.13_4-2-0.pdf" target="_blank">Section 5: Customizing Pages Part 2</a></li>
-<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_6-7_4-2-0.pdf" target="_blank">Section 6-7: </a></li>
+<li><a href="http://ourontario.ca/temp/ODW-GitHub/SiteAdmin_6-7_4-2-0.pdf" target="_blank">Section 6-7: Site Set up, Plus plan options</a></li>
 </ul>
 </ul>
 
