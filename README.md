@@ -1,7 +1,7 @@
 VITA-Support-Docs
 =================
 
-<a href="http://vitatoolkit.ca/" target="_blank">VITA Digital Toolkit</a> is a complete solution for uploading, managing and displaying your digital collections online. Toolkit Subscribers are fully supported through the VITA Toolkit Help site (http://help.vitatoolkit.ca), which includes recorded webinars, downloadable step-by-step manuals, and personal email support for point of need communications.
+<a href="http://vitatoolkit.ca/" target="_blank">VITA Digital Toolkit</a> is a complete solution for uploading, managing and displaying your digital collections online. Toolkit Subscribers are fully supported through the VITA Toolkit Help site (http://help.vitatoolkit.ca), which includes recorded webinars, downloadable step-by-step manuals, and personal email support for point of need communications. The Help site also includes tips and sample documentation for promoting collections, other partner promotion items, tips for incoming staff and students, and help for users searching.
 
 Here's a selection of the VITA Toolkit manuals:
 
